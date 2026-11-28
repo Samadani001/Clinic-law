@@ -15,10 +15,10 @@ const patrons = [
     bio: "Supervises student clinicians on case intake, ethical compliance, legal drafting, and NULAI Nigeria clinical standards."
   },*/
   {
-    name: "Dr. Mansur",
+    name: "Dr. M.M Aliyu",
     subtitle: "Lecturer, Faculty of Law",
-    role: "Deputy Staff Adviser",
-    photo: "../Asset/Dean.jpeg",
+    role: "Staff Adviser & Clinic Coordinator",
+    photo: "../Asset/mansur.jpeg",
     bio: "Mentors clinicians on Alternative Dispute Resolution (ADR), community outreach programs, and human rights advocacy."
   }
 ];
@@ -33,8 +33,8 @@ const executives = [
     bio: "Coordinates internal clinical operations, student clinician schedules, and case file supervision."
   },
   {
-   name: "Alaro Abdullahi M",
-    subtitle: "500 Level, Faculty of Law",
+   name: "Alaro Abdullahi ",
+    subtitle: "300 Level, Faculty of Law",
     role: "Director of Programs",
     photo: "../Asset/alaro.jpeg",
     bio: "Oversees prison decongestion exercises, court observation duties, and client intake assessments."
@@ -68,22 +68,22 @@ const executives = [
     bio: "Maintains transparent financial records, project budgets, and grant accountability for clinic initiatives."
   },
   {
-    name: "Marufdeen Muhammed Director, ADR",
-    subtitle: "400 Level, Faculty of Law",
+    name: "Marufdeen Muhammed Yasin",
+    subtitle: "300 Level, Faculty of Law",
     role: "Assistant Deputy Director, ADR",
     photo: "../Asset/yasin.jpeg",
     bio: "Heads legal research teams, editorial publications, and empirical access-to-justice reports."
   }, 
    {
     name: "Zainab Babangida Maidabino",
-    subtitle: "300 Level, Faculty of Law",
+    subtitle: "500 Level, Faculty of Law",
     role: "Asst. Director Pre-trial Detention",
     photo: "../Asset/maidabino.jpeg",
     bio: "Directs public enlightenment campaigns, Street Law media coverage, and stakeholder communications."
   },
   {
     name: "Zainab Wali",
-    subtitle: "400 Level, Faculty of Law",
+    subtitle: "500 Level, Faculty of Law",
     role: "Facilaltator",
     photo: "../Asset/wali.jpeg",
     bio: "Supervises community mediation sessions, conflict resolution clinics, and amicable settlement drafting."
@@ -92,7 +92,7 @@ const executives = [
     name: "Safiyya Abubakar Matazu",
     subtitle: "400 Level, Faculty of Law",
     role: "Deputy Facilaltator",
-    photo: "../Asset/matazu.jpeg",
+    photo: "../Asset/mtz.jpeg",
     bio: "Supervises community mediation sessions, conflict resolution clinics, and amicable settlement drafting."
   },
    {
@@ -110,8 +110,8 @@ const executives = [
     bio: "Directs public enlightenment campaigns, Street Law media coverage, and stakeholder communications."
   },
   {
-    name: "muazu Samaila",
-    subtitle: "400 Level, Faculty of Law",
+    name: "Muazu Samaila",
+    subtitle: "300 Level, Faculty of Law",
     role: "Publication manager  Ⅱ",
     photo: "../Asset/muazu.jpeg",
     bio: "Supervises community mediation sessions, conflict resolution clinics, and amicable settlement drafting."
