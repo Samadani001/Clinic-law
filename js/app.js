@@ -15,10 +15,10 @@ const patrons = [
     bio: "Supervises student clinicians on case intake, ethical compliance, legal drafting, and NULAI Nigeria clinical standards."
   },*/
   {
-    name: "Dr. Mansur",
+    name: "Dr. M.M Aliyu",
     subtitle: "Lecturer, Faculty of Law",
-    role: "Deputy Staff Adviser",
-    photo: "../Asset/Dean.jpeg",
+    role: "Staff Adviser & Clinic Coordinator",
+    photo: "../Asset/mansur.jpeg",
     bio: "Mentors clinicians on Alternative Dispute Resolution (ADR), community outreach programs, and human rights advocacy."
   }
 ];
@@ -83,7 +83,7 @@ const executives = [
   },
   {
     name: "Zainab Wali",
-    subtitle: "400 Level, Faculty of Law",
+    subtitle: "500 Level, Faculty of Law",
     role: "Facilaltator",
     photo: "../Asset/wali.jpeg",
     bio: "Supervises community mediation sessions, conflict resolution clinics, and amicable settlement drafting."
@@ -92,7 +92,7 @@ const executives = [
     name: "Safiyya Abubakar Matazu",
     subtitle: "400 Level, Faculty of Law",
     role: "Deputy Facilaltator",
-    photo: "../Asset/matazu.jpeg",
+    photo: "../Asset/mtz.jpeg",
     bio: "Supervises community mediation sessions, conflict resolution clinics, and amicable settlement drafting."
   },
    {
@@ -111,7 +111,7 @@ const executives = [
   },
   {
     name: "muazu Samaila",
-    subtitle: "400 Level, Faculty of Law",
+    subtitle: "300 Level, Faculty of Law",
     role: "Publication manager  Ⅱ",
     photo: "../Asset/muazu.jpeg",
     bio: "Supervises community mediation sessions, conflict resolution clinics, and amicable settlement drafting."
