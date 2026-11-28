@@ -33,8 +33,8 @@ const executives = [
     bio: "Coordinates internal clinical operations, student clinician schedules, and case file supervision."
   },
   {
-   name: "Alaro Abdullahi M",
-    subtitle: "500 Level, Faculty of Law",
+   name: "Alaro Abdullahi ",
+    subtitle: "300 Level, Faculty of Law",
     role: "Director of Programs",
     photo: "../Asset/alaro.jpeg",
     bio: "Oversees prison decongestion exercises, court observation duties, and client intake assessments."
@@ -68,15 +68,15 @@ const executives = [
     bio: "Maintains transparent financial records, project budgets, and grant accountability for clinic initiatives."
   },
   {
-    name: "Marufdeen Muhammed Director, ADR",
-    subtitle: "400 Level, Faculty of Law",
+    name: "Marufdeen Muhammed Yasin",
+    subtitle: "300 Level, Faculty of Law",
     role: "Assistant Deputy Director, ADR",
     photo: "../Asset/yasin.jpeg",
     bio: "Heads legal research teams, editorial publications, and empirical access-to-justice reports."
   }, 
    {
     name: "Zainab Babangida Maidabino",
-    subtitle: "300 Level, Faculty of Law",
+    subtitle: "500 Level, Faculty of Law",
     role: "Asst. Director Pre-trial Detention",
     photo: "../Asset/maidabino.jpeg",
     bio: "Directs public enlightenment campaigns, Street Law media coverage, and stakeholder communications."
@@ -110,7 +110,7 @@ const executives = [
     bio: "Directs public enlightenment campaigns, Street Law media coverage, and stakeholder communications."
   },
   {
-    name: "muazu Samaila",
+    name: "Muazu Samaila",
     subtitle: "300 Level, Faculty of Law",
     role: "Publication manager  Ⅱ",
     photo: "../Asset/muazu.jpeg",
